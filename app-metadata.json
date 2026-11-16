@@ -1,0 +1,18 @@
+{
+  "architectures": [
+    "amd64",
+    "arm",
+    "arm64"
+  ],
+  "developer": "管浩良",
+  "submission_status": "not_submitted",
+  "number": 7,
+  "screenshot_status": "pending",
+  "dual_arch": true,
+  "name": "LinkAce",
+  "source": "https://www.linkace.org/",
+  "screenshot_path": "precheck-screenshots/linkace/x86_64/run.png",
+  "developer_account": "k.kuan@qq.com",
+  "docker_hub": "linkace/linkace",
+  "tag": "2.x"
+}
