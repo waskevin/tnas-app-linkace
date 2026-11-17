@@ -1,0 +1,6 @@
+services:
+  linkace:
+    image: linkace/linkace:2.x
+    restart: unless-stopped
+    environment:
+      TZ: Asia/Shanghai
